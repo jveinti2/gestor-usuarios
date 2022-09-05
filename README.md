@@ -4,7 +4,7 @@
 </div>
 <h3>Aquí tienes la aplicación desplegada:<h3>
 <ul>
-  <li><a href='https://resonant-baklava-1e018e.netlify.app/'>gestor-usuarios</a></li>
+  <li><a target='_blank' href='https://resonant-baklava-1e018e.netlify.app/'>gestor-usuarios</a></li>
 </ul>
 <h3>Comceptos y tecnologias aplicadas:<h3>
 <ul>
